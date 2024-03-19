@@ -19,6 +19,4 @@ function MyButton() {
   )
 }
 
-export default function MyApp() {
-  return <MyButton />
-}
+export default function MyApp() { }
