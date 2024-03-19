@@ -11,7 +11,6 @@ const config: DocsThemeConfig = {
     autoCollapse: false,
     defaultMenuCollapseLevel: Infinity,
   },
-  
-}
 
+}
 export default config
