@@ -10,7 +10,7 @@ const config: DocsThemeConfig = {
   sidebar: {
     autoCollapse: false,
     // defaultMenuCollapseLevel can be set to Infinity if you want all folders expanded.
-    defaultMenuCollapseLevel: Infinity,
+    defaultMenuCollapseLevel: 1000,
   }
 }
 
